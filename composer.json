@@ -1,5 +1,5 @@
 {
-    "name": "sibds/yii2-remember-tabs",
+    "name": "mazurva/yii2-remember-tabs",
     "type": "widget",
     "require": {
         "yiisoft/yii2": "~2.0"
