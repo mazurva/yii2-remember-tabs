@@ -1,0 +1,14 @@
+{
+    "name": "sibds/yii2-remember-tabs",
+    "type": "widget",
+    "require": {
+        "yiisoft/yii2": "~2.0"
+    },
+    "authors": [
+        {
+            "name": "Vadim Mazur",
+            "email": "mazurva@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
