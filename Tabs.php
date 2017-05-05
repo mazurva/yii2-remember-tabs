@@ -1,6 +1,8 @@
 <?php
 namespace mazurva\bootstrap;
 
+use \Yii;
+
 class Tabs extends \yii\bootstrap\Tabs
 {
 	/**
