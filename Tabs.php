@@ -3,7 +3,7 @@ namespace mazurva\bootstrap;
 
 use \Yii;
 
-class Tabs extends \yii\bootstrap\Tabs
+class Tabs extends \yii\bootstrap4\Tabs
 {
 	/**
 	@var boolean
